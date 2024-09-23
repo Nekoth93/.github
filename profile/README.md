@@ -1,4 +1,4 @@
-# HEIG-VD DAI Course
+# This change is made on the branch 'this-branch-will-create-a-conflict'
 
 Welcome to the
 [Développement d'applications internet (DAI) course](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=6573)
