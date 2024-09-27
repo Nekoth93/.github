@@ -101,6 +101,7 @@ and answering your questions.
 - Sara Camassa [@scamassa](https://github.com/scamassa)
 - Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
 - Gianni Cecchetto [@GianniCecchetto](https://github.com/GianniCecchetto)
+- Yoann Changanaqui [@Yoy017](https://github.com/Yoy017)
 - Nicolas Duprat [@skyrag](https://github.com/skyrag)
 - Florian Duruz [@Cat-du-Fromage](https://github.com/Cat-du-Fromage)
 - Dani Tiago Faria dos Santos[@Dansnts](https://github.com/Dansnts)
