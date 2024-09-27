@@ -67,6 +67,7 @@ and answering your questions.
 - Mathéo Lopez [@MathLopez](https://github.com/MathLopez)
 - Colin Moschard [@colinmoschard](https://github.com/colinmoschard)
 - Victor Nicolet [@Vicolet](https://github.com/Vicolet)
+- Nathan Parisod [@Nat004499](https://github.com/Nat004499)
 - Axel Pittet [@Axwells](https://github.com/Axwells)
 - Pierric Ripoll [@Nyaaw](https://github.com/Nyaaw)
 - Mário André Rocha Ferraria [@Thynkon](https://github.com/Thynkon)
