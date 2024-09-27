@@ -94,6 +94,7 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
+- Pedro Alves da Silva [@PedroAS7](https://github.com/PedroAS7)
 - Urs Behrmann [@UBehrmann](https://github.com/UBehrmann)
 - David Berger [@Davtek11](https://github.com/Davtek11)
 - Sara Camassa [@scamassa](https://github.com/scamassa)
