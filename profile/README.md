@@ -101,6 +101,7 @@ and answering your questions.
 - Gonçalo Carvalheiro Heleno [@lentidas](https://github.com/lentidas)
 - Gianni Cecchetto [@GianniCecchetto](https://github.com/GianniCecchetto)
 - Nicolas Duprat [@skyrag](https://github.com/skyrag)
+- Florian Duruz [@Cat-du-Fromage](https://github.com/Cat-du-Fromage)
 - Dani Tiago Faria dos Santos[@Dansnts](https://github.com/Dansnts)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
 - Kilian Froidevaux [@kilianfroideva](https://github.com/kilianfroideva)
