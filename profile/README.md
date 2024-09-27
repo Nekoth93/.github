@@ -104,6 +104,7 @@ and answering your questions.
 - Florian Duruz [@Cat-du-Fromage](https://github.com/Cat-du-Fromage)
 - Dani Tiago Faria dos Santos[@Dansnts](https://github.com/Dansnts)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
+- Louis Haye[@Artotrogo](https://github.com/Artotrogo)
 - Kilian Froidevaux [@kilianfroideva](https://github.com/kilianfroideva)
 - Aladin Iseni [@aladin-heig](https://github.com/aladin-heig)
 - Arthur Jacobs [@Arthur2479](https://github.com/Arthur2479)
