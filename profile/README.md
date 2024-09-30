@@ -51,6 +51,7 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
+- Alexandre Delétraz [@Nekoth93](https://github.com/Nekoth93)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
 
 ### DAI-TIC-C
