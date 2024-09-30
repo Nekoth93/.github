@@ -59,6 +59,7 @@ and answering your questions.
 - Leonard Cseres [@leonardcser](https://github.com/leonardcser)
 - Nils Donatantonio [@nilsdonatantonio](https://github.com/nilsdonatantonio)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- Robin Forestier [@Forestierr](https://github.com/Forestierr)
 - Adam Gruber [@AdamoElProfesor](https://github.com/AdamoElProfesor)
 - Benjamin Kocher [@BKo1706](https://github.com/BKo1706)
 - Aude Laydu [@eau2](https://github.com/eau2)
